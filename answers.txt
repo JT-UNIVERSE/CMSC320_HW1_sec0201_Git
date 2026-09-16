@@ -1,3 +1,9 @@
+
 Q1: Why might we consider using Git?
 
 Answer: [To help manage code and data changes when working with a team.It keeps a history of your code and more.]
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: [Data Science can be applied to the marketing field. For example, data science can be used to provide very valuable info to see whether having blue or red "buy now" button on email provides a higher number of clicks.]
+
