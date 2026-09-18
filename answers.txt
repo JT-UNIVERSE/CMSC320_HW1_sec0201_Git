@@ -10,3 +10,7 @@ Answer: [Data Science can be applied to the marketing field. For example, data s
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: [Merging combines the branches into a merge commit, which preserves the existing history. Rebasing moves the commits to the end of the other branch,making a straight line of commits and rewrites the history instead.]
+
+Q4: What are you looking forward to this semester?
+
+Answer: [I'm looking foward to dive deeper into computer science and experience the difference side of cs with intro to data science,diffrent languages, and studying algorithms]
